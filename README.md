@@ -16,5 +16,3 @@ https://qiita.com/yasuno0327/items/ff17ddb6a4167fc6b471
 
 【Rails】完全理解 form でセレクトボックスをつくる select の使い方<br>
 https://310nae.com/rails-selectbox/
-
-#＃＃ trello_task
