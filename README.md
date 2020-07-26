@@ -14,4 +14,7 @@ https://qiita.com/tobita0000/items/866de191635e6d74e392
 devise に username カラムを追加し、username を登録できるようにする。<br>
 https://qiita.com/yasuno0327/items/ff17ddb6a4167fc6b471
 
-# trello_task
+【Rails】完全理解 form でセレクトボックスをつくる select の使い方<br>
+https://310nae.com/rails-selectbox/
+
+#＃＃ trello_task
