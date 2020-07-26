@@ -20,6 +20,7 @@ class CardController < ApplicationController
   end
 
   def edit
+    @lists = List.where(user: current_user)
   end
 
   def update
@@ -29,7 +30,7 @@ class CardController < ApplicationController
       render action: :edit
     end
   end
-  
+
   def destroy
     @card.destroy
     redirect_to :root
